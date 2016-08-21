@@ -44,9 +44,10 @@ body {
     margin: 0.5em;
 }
 .form {
-    position: absolute;
+    position: inherit;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
+    padding: 1.5em;
 }
